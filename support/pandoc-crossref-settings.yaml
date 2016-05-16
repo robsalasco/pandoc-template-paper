@@ -1,0 +1,16 @@
+cref: True
+codeBlockCaptions: True
+figureTitle: "Figura"
+tableTitle: "Tabla"
+loftitle: "# Lista de figuras"
+lotTitle: "# Lista de tablas"
+figPrefix: 
+ - "Figura"
+ - "Figuras"
+lstPrefix:
+ - "Lista"
+ - "Listas"
+tblPrefix:
+ - "Tabla"
+ - "Tablas"
+tableTemplate: "*$$tableTitle$$ $$i$$*$$titleDelim$$ $$t$$"
